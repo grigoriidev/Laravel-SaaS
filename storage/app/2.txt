@@ -1,0 +1,242 @@
+
+2018-06-15 15:06:03[WooCommerce orderID 9100] successfully transferred to Visma
+
+2018-06-15 15:06:04[WooCommerce orderID 9099] successfully transferred to Visma
+
+2018-06-15 20:25:08[WooCommerce orderID 9100] successfully transferred to Visma
+
+2018-06-15 20:25:09[WooCommerce orderID 9099] successfully transferred to Visma
+
+2018-06-15 20:28:30[WooCommerce orderID 9100] successfully transferred to Visma
+
+2018-06-15 20:28:30[WooCommerce orderID 9099] successfully transferred to Visma
+
+2018-06-15 22:31:20[WooCommerce orderID 9100] successfully transferred to Visma
+
+2018-06-15 22:31:21[WooCommerce orderID 9099] successfully transferred to Visma
+
+2018-06-16 00:24:58[WooCommerce orderID 9100] successfully transferred to Visma
+
+2018-06-16 00:24:59[WooCommerce orderID 9099] successfully transferred to Visma
+
+2018-06-16 04:59:45[WooCommerce orderID 9101] successfully transferred to Visma
+
+2018-06-16 04:59:46[WooCommerce orderID 9100] successfully transferred to Visma
+
+successfully transferred payment report number 39208to eAccounting 2018-06-19 19:47:51
+
+successfully transferred payment report number to eAccounting 2018-06-19 20:20:42
+
+successfully transferred payment report number to eAccounting 2018-06-19 20:25:46
+
+successfully transferred payment report number to eAccounting 2018-06-19 20:44:08
+
+successfully transferred payment report number to eAccounting 2018-06-19 20:47:25
+
+successfully transferred payment report number to eAccounting 2018-06-19 23:29:56
+
+successfully transferred payment report number to eAccounting 2018-06-20 04:40:59
+
+successfully transferred payment report number to eAccounting 2018-06-20 10:50:52
+
+successfully transferred payment report number to eAccounting 2018-06-20 19:43:33
+
+successfully transferred payment report number to eAccounting 2018-06-25 15:30:30
+
+successfully transferred payment report number to eAccounting 2018-06-25 16:54:48
+
+successfully transferred payment report number to eAccounting 2018-06-25 17:32:13
+
+successfully transferred payment report number to eAccounting 2018-06-25 17:34:17
+
+2018-06-25 17:38:33[WooCommerce orderID 9153] successfully transferred to Visma
+
+2018-06-25 17:38:34[WooCommerce orderID 9152] successfully transferred to Visma
+
+2018-06-26 15:54:24[WooCommerce orderID 9158] successfully transferred to Visma
+
+2018-06-26 15:54:24[WooCommerce orderID 9154] successfully transferred to Visma
+
+2018-06-26 16:04:58[WooCommerce orderID 9158] successfully transferred to Visma
+
+2018-06-26 16:04:58[WooCommerce orderID 9154] successfully transferred to Visma
+
+2018-06-26 16:11:38[WooCommerce orderID 9159] successfully transferred to Visma
+
+2018-06-26 16:11:38[WooCommerce orderID 9158] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-06-26 16:12:31
+
+successfully transferred payment report number to eAccounting 2018-06-26 16:30:19
+
+successfully transferred payment report number to eAccounting 2018-06-26 16:32:41
+
+2018-06-26 16:42:32[WooCommerce orderID 9159] successfully transferred to Visma
+
+2018-06-26 16:42:33[WooCommerce orderID 9158] successfully transferred to Visma
+
+2018-06-26 16:44:03[WooCommerce orderID 9159] successfully transferred to Visma
+
+2018-06-26 16:44:03[WooCommerce orderID 9158] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-06-26 16:56:16
+
+2018-06-26 17:13:45[WooCommerce orderID 9159] successfully transferred to Visma
+
+2018-06-26 17:13:47[WooCommerce orderID 9158] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-06-26 17:20:42
+
+2018-06-26 17:24:27[WooCommerce orderID 9159] successfully transferred to Visma
+
+2018-06-26 17:24:27[WooCommerce orderID 9158] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-06-26 17:25:02
+
+2018-06-26 17:29:39[WooCommerce orderID 9159] successfully transferred to Visma
+
+2018-06-26 17:29:40[WooCommerce orderID 9158] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-06-26 17:30:10
+
+2018-06-29 02:15:25[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:15:26[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 02:17:14[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:17:16[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 02:25:42[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:25:44[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 02:29:33[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:29:34[WooCommerce orderID 9168] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-06-29 02:33:40
+
+2018-06-29 02:37:04[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:37:05[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 02:39:16[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:39:17[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 02:42:30[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 02:42:31[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 06:35:15[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 06:35:15[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-06-29 06:40:35[WooCommerce orderID 9169] successfully transferred to Visma
+
+2018-06-29 06:40:35[WooCommerce orderID 9168] successfully transferred to Visma
+
+2018-07-03 13:28:05[WooCommerce orderID 9185] successfully transferred to Visma
+
+2018-07-03 13:28:06[WooCommerce orderID 9184] successfully transferred to Visma
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:28:44
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:30:32
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:33:05
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:34:22
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:34:54
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:36:44
+
+successfully transferred payment report number to eAccounting 2018-07-03 13:40:33
+
+successfully transferred payment report number to eAccounting 2018-07-04 16:37:01
+
+successfully transferred payment report number to eAccounting 2018-07-04 16:48:52
+
+successfully transferred payment report number to eAccounting 2018-07-04 16:50:10
+
+successfully transferred payment report number to eAccounting 2018-07-04 18:03:16
+
+successfully transferred payment report number to eAccounting 2018-07-04 18:09:50
+
+successfully transferred payment report number to eAccounting 2018-07-04 18:10:56
+
+successfully transferred payment report number to eAccounting 2018-07-04 18:12:03
+
+successfully transferred payment report number to eAccounting 2018-07-04 18:12:18
+
+successfully transferred payment report number to eAccounting 2018-07-04 18:13:55
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:19:58
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:25:21
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:26:08
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:28:23
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:32:18
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:41:02
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:44:12
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:53:57
+
+successfully transferred payment report number to eAccounting 2018-07-04 21:56:44
+
+successfully transferred payment report number to eAccounting 2018-07-04 23:55:49
+
+2018-07-05 14:22:27[Stripe payment #b86ff96b-5d3f-4515-9a56-b1bb91c5f012] successfully transferred to Visma
+
+2018-07-06 07:00:43[Stripe payment #835ec2cb-464a-4020-a00e-728a87821412] successfully transferred to Visma
+
+2018-07-06 07:03:48[Stripe payment #1cc7a4eb-3399-4dc5-a1d8-ee38df22a6bc] successfully transferred to Visma
+
+2018-07-06 07:07:13[Stripe payment #520b0947-1bfe-4b0c-b578-ff64dce7513c] successfully transferred to Visma
+
+2018-07-06 22:11:02[WooCommerce orderID 9195] successfully transferred to Visma
+
+2018-07-06 22:11:04[WooCommerce orderID 9194] successfully transferred to Visma
+
+2018-07-06 22:31:08[WooCommerce orderID 9195] successfully transferred to Visma
+
+2018-07-06 22:31:09[WooCommerce orderID 9194] successfully transferred to Visma
+
+2018-07-08 05:24:16[WooCommerce orderID 9196] successfully transferred to Visma
+
+2018-07-08 05:24:17[WooCommerce orderID 9195] successfully transferred to Visma
+
+2018-07-08 06:01:22[Stripe payment #654c0037-cbcf-4605-8b46-90a98f888438] successfully transferred to Visma
+
+2018-07-09 14:48:22[Stripe payment #235ac1ad-d04d-4469-9739-6483a62e85a2] successfully transferred to Visma
+
+2018-07-10 13:52:12[Stripe payment #6b81883f-011c-49ed-bd49-43dd3629f1c5] successfully transferred to Visma
+
+2018-07-10 13:52:16[Stripe payment #ea27f085-7a9f-455c-a80a-9638db094654] successfully transferred to Visma
+
+2018-07-10 13:52:20[Stripe payment #3acae6a7-5853-4a6c-a335-e5d65b81b44c] successfully transferred to Visma
+
+2018-07-10 13:52:25[Stripe payment #090417d5-8563-4d75-bc5d-6fc2defd1088] successfully transferred to Visma
+
+2018-07-10 13:52:29[Stripe payment #a05b2dbf-bf14-421e-9983-3934a0ba0106] successfully transferred to Visma
+
+2018-07-11 06:00:03[Stripe payment #6b26be67-97c6-4730-ab75-5e7547597716] successfully transferred to Visma
+
+2018-07-11 07:43:31[Stripe payment #66d2965e-f454-4f38-b49d-446076662062] successfully transferred to Visma
+
+2018-07-11 07:43:34[Stripe payment #01fc1be8-c1ce-4159-bc3e-f222deb4f22e] successfully transferred to Visma
+
+2018-07-11 07:43:38[Stripe payment #312c75bf-3405-46bd-ad14-5cb2003ba4b2] successfully transferred to Visma
+
+2018-07-11 07:43:42[Stripe payment #2ab490d2-eddb-42ee-8c9b-9bdae7dd8a34] successfully transferred to Visma
+
+2018-07-11 07:43:45[Stripe payment #3e53b16b-ec34-4907-99a7-44ef7ec915ac] successfully transferred to Visma
+
+2018-07-11 07:43:48[Stripe payment #0e559bd0-9f09-456d-a743-06a4c796970a] successfully transferred to Visma

@@ -1,0 +1,3 @@
+2018-07-05 13:01:31[Stripe payment #9c7cd317-2e70-4d89-a5fa-d560f32dcb8b] successfully transferred to Visma
+
+2018-07-05 14:08:20[Stripe payment #6974e3b8-eaae-47e5-8e83-8012cd618bb4] successfully transferred to Visma

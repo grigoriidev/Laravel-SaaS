@@ -1,0 +1,9 @@
+#app_search_butt {
+    width: 200px;
+}
+@media screen and (max-width: 992px) {
+    #app_search_butt {
+        width: 100%;
+    }
+}
+
